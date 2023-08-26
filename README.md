@@ -1,0 +1,2 @@
+# qtiledots
+My qtile configurations 
